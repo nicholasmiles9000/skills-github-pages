@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Hello
+
+Certifications: A+, Network+, Security+, CCNA
 ---
 
